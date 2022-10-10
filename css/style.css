@@ -1,0 +1,35 @@
+/* navigation */
+span h1 {
+    /* display: inline;  */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue; 
+    background-color: yellow; 
+  }
+  
+  nav {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue; 
+    background-color: yellow; 
+
+  }
+  .content {
+      border: 3px red solid;
+  }
+  span.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue; 
+    background-color: yellow; 
+  } 
+  .heroImg {
+      /* background-color: pink; */
+      background-image: url("https://thumbs.dreamstime.com/z/marble-background-marble-texture-green-marble-pattern-marble-wallpaper-green-abstract-background-marble-background-marble-texture-115718831.jpg");
+      border: 3px blue solid;
+    }
